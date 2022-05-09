@@ -16,7 +16,12 @@ public class Prueba2 {
      */
     public static void main(String[] args) {
         System.out.println("Hola Mundo");
+        
+        //Version 2
         System.out.println("Version2.0");
+        
+        //Version 3
+        System.out.println("Version3.0");
     }
     
 }
